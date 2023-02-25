@@ -47,7 +47,7 @@ To create a Sports Balls detection system which will detect objects based on whe
 * In our model we have used JetPack version 4.6 which is the latest production release and supports all Jetson modules.
 
 <h2>Jetson Nano 2GB:-</h2>
-<img src="[pic_trulli.jp](https://user-images.githubusercontent.com/93208224/209101765-3af37ed9-bb99-4370-a340-0d1f442709d0.jpg)g" alt="Jetson Nano 2GB">
+<img src="https://user-images.githubusercontent.com/93208224/209101765-3af37ed9-bb99-4370-a340-0d1f442709d0.jpg" alt="Jetson Nano 2GB">
 
 ## Proposed System :-
 
