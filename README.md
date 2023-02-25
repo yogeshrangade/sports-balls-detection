@@ -85,7 +85,7 @@ Remove unwanted Applications. sudo apt-get remove --purge libreoffice* sudo apt-
 
 * Running Fish Species Detection Model source '0' for webcam !python detect.py --weights best.pt --img 416 --conf 0.1 --source 0
 
-### Demo link:-
+### Demo link:-   https://youtu.be/KvPYiytt1Gk
 
 ### Advantages
 
